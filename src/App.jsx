@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <section id="center">
-        {/* azizbek*/}
+        {/* azizbeaaaaasssk*/}
         <div className="save"></div>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
